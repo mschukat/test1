@@ -2,9 +2,9 @@
 
 int main()
 {
-	int x, y;
+	int x, y = 0;
 	
-	printf("Hello World");
+	printf("Hello World % d\n", y);
 	
 	return 1;
 }
